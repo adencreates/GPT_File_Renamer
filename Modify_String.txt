@@ -1,0 +1,9 @@
+Generate one synthesizer preset name inspired by the input. Do not use any of the words contained within the Input in the Output. The response should use music production related terminology.
+Input: Super Saw 1, Output: Hyper Saw,\n
+Input: Under Sea, Output: Under Water,\n
+Input: Harmonics, Output: Floating Harmonic,\n
+Input: Rhythm, Output: Groovy,\n
+Input: Steinweird, Output: Strange Piano,\n
+Input: Sweep 1, Output: Singular Sweep,\n
+Input: Swell, Output: Waves,\n\n
+Generate an Output for this Input:

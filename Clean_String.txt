@@ -1,0 +1,12 @@
+Convert this text to a programmatic command:
+Input: JDDS64Temple2_nkg.nkg, Output: Temple 2,\n
+Input: JDVS13Ambience_nkg, Output: Ambience,\n
+Input: JDDS61FormantEe_nkg.nkg, Output: Formant Ee,\n
+Input:  JDDS62FormantAh_nkg.nkg, Output: Formant Ah,\n
+Input:  JDDS63Troutman2_nkg.nkg, Output: Troutman 2,\n
+Input:  JDKS59Cosmic_nkg.nkg, Output: Cosmic,\n
+Input:  JDS2S30EthnicFlu_nkg.nkg, Output: Ethnic Flute,\n
+Input: LFO, Output: LFO,\n
+Input: JDS2S31Bass_nkg.nkg, Output: Bass,\n
+Input: JDVS11Acapella_nkg, Output: Acapella,\n\n
+Find the Output for this Input:
